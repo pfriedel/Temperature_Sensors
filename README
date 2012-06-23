@@ -1,0 +1,3 @@
+An assortment of temperature sensors, displaying to a 16x2 LCD and over serial.
+Mostly a reference work, but I'm including the libraries so they're tied to the
+package.
